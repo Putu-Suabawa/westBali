@@ -12,6 +12,7 @@ body {
     color: green;
     font-size: 28px;
     padding: 15px;
+    line-height: 50px;
 }
 
 p.boldItalic {
